@@ -1,0 +1,55 @@
+<courseProgram>
+	<basicTheory>
+		<topic1>Testing</topic1>
+		<topic2>Bug Report</topic2>
+		<topic3>Documentation</topic3>
+		<topic4>SDLC</topic4>
+		<topic5>STLC</topic5>
+	</basicTheory>
+	<client-server>Architecture</client-server>
+	<http>
+		<topic1>Request methods</topic1>
+		<topic2>Status codes</topic2>
+		<topic3>Request/Response architecture</topic3>
+	</http>
+	<json>Structure</json>
+	<xml>Structure</xml>
+	<apiTesting>
+		<topic1>Postman</topic1>
+		<topic2>Postman JS</topic2>
+		<topic3>Postman automation</topic3>
+	</apiTesting>
+	<remoteServer>Logs</remoteServer>
+	<trafficSniffing>
+		<topic1>Charles/Fiddler Web</topic1>
+		<topic2>Charles/Fiddler iOs</topic2>
+		<topic3>Charles/Fiddler Android</topic3>
+	</trafficSniffing>
+	<devTools>
+		<topic1>Chrome</topic1>
+		<topic2>Firefox</topic2>
+	</devTools>
+	<vpn>WhyWhatWhere</vpn>
+	<mobileTesting>
+		<topic1>iOs/Android guidelines</topic1>
+		<topic2>Building iOs app using Xcode</topic2>
+		<topic3>Building Android app using Android Studio</topic3>
+		<topic4>Proxy/Vpn Android/iOs</topic4>
+	</mobileTesting>
+	<linuxTerminal>
+		<topic1>Using terminal</topic1>
+		<topic2>Automation by bash script</topic2>
+		<topic3>Remote server</topic3>
+	</linuxTerminal>
+	<dB>
+		<topic1>SQL</topic1>
+		<topic2>Postrges</topic2>
+		<topic3>Redis</topic3>
+	</dB>
+	<loadTesting>Jmeter</loadTesting>
+	<agileMethodology>Scrum</agileMethodology>
+	<python>
+		<topic1>Basis</topic1>
+		<topic2>Client-Server app</topic2>
+	</python>
+</courseProgram>
