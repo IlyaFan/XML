@@ -1,1 +1,15 @@
-
+<bug_report>
+  <No>1</No>
+  <Title>The button Sell/Buy into resource description redirects user to wrong page</Title>
+  <Steps>
+    <Step1>1. Go to www.capital.com</Step1>
+    <Step2>2. Click on the Gas resource into interractive table</Step2>
+    <Step3>3. Click on the Buy/Sell button</Step3>
+  </Steps>
+  <ExpResult>User is redirected to the trading platform</ExpResult>
+  <ActResult>User is redirected to the app store</ActResult>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Environment>Windows 10, Google Chrome 109.0.5414.121</Environment>
+  <Description></Description>
+</bug_report>
